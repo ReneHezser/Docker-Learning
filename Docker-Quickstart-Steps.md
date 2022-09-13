@@ -55,3 +55,14 @@ Until now, we've started containers individually. The concept of a multi tier ap
 - docker exec
 - containerd commands
     - homework: what commands make sense for me?
+
+## Sources
+
+- https://www.serverlab.ca/tutorials/containers/docker/how-to-host-your-wordpress-site-with-docker/
+- https://docs.docker.com/network/
+- https://linuxhint.com/dockerfile_volumes/
+- [Running a container with a non root user](https://betterprogramming.pub/running-a-container-with-a-non-root-user-e35830d1f42a)
+- https://docs.docker.com/desktop/multi-arch/
+- [Runtime options with Memory, CPUs and GPUs](https://docs.docker.com/config/containers/resource_constraints/)
+- [Orchestration: What is Docker Swarm](https://programatically.com/orchestration-what-is-docker-swarm/)
+- [Top 10 Logging Gotchas](https://sematext.com/blog/top-10-docker-logging-gotchas/)
